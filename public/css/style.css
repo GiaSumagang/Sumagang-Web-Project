@@ -1,0 +1,79 @@
+body{
+    background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url(cyber.jpg);
+    background-size: cover;
+    background-position: center;
+}
+ .login-box{
+     margin: auto; 
+     width: 80%;
+     float: none;
+     margin: 200px auto;
+ }
+ .login-left{
+     background: rgba(181, 202, 184, 0.693);
+     padding: 50px;
+     margin:auto;
+ }
+
+ .register-right{
+    margin: auto; 
+    color: rgb(245, 239, 239);
+     background: rgba(21, 26, 21, 0.686);
+     padding: 30px;
+ }
+ .adduser{
+    color: rgb(245, 239, 239);
+ }
+ .form-control{
+    color:antiquewhite;
+     background-color: transparent !important;
+ }
+
+.menu{
+padding-left: 20px;
+background-size: cover;
+text-align: center;
+padding-top: 200px;
+}
+.h2, h2 {
+padding: 5px;
+background-color:#fefbffa8;
+font-size: 2rem;
+color: rgb(0, 0, 0);
+text-align: center;
+}
+.block {
+color: rgb(255, 255, 255);
+text-align: center;
+display: center;
+width: 40%;
+background-color:#ad96f292;
+padding: 10px 10px;
+padding-left: 2%;
+font-size: 30px;
+cursor: pointer;
+border: none;
+}
+.h3, h3 {
+    padding-top: 0%;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    }
+.h4, h4 {
+ padding-top: 0%;
+ font-size: 50px;
+ color: rgb(255, 255, 255);
+ text-align: center;
+ }
+ .card-body{
+    margin:auto;
+    background-color:#d3bfda9b;
+ }
+ .col-md-9{
+    margin:auto;
+
+ }
+ .card{
+    background-color:#e3e1ff00; 
+ }
